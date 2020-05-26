@@ -1,7 +1,7 @@
 # gaan_playlist
 
 
-Gaana to Spotify
+#Gaana to Spotify
 
 Python Scrips to export gaana playlist to csv file and that csv file to Spotify Playlist
 
