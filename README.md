@@ -5,7 +5,7 @@ Gaana to Spotify
 
 Python Scrips to export gaana playlist to csv file and that csv file to Spotify Playlist
 
-    Sign-up to http://developer.spotify.com/ and register new app
+    Sign-up to  http://developer.spotify.com/ and register new app
     
     open EDIT SETTINGS of your app to add http://localhost:8888 and http://localhost:8888/callback/ to redirect url
     copy client-id, client_secret into csv_to_spotify.py file
